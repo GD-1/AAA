@@ -15,7 +15,7 @@ body{ background:snow; background:url(img/body-bg.png) repeat-x; font-family:Ari
 
 .top_bar{ float:right;}
 .top_bar li{ float:left; height:30; color:#fff; font-size:13px; font-weight:bold; line-height:30px;}
-.top_bar .phone{ background:url(img/top_icon.png) no-repeat 6 -16px; padding:0 39px;}
+.top_bar .phone{ background:url(img/top_icon.png) no-repeat 6px -16px; padding:0 39px;}
 .top_bar .help{background:url(img/top_icon.png) no-repeat 0 -46px; padding:0 39px;}
 .top_bar .help a{ color:#fff;}
 .top_bar .space{ margin-right:12px;}
